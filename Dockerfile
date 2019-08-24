@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM arm32v7/alpine:3.10
 
 MAINTAINER resyst-it <florian.cauzardjarry@gmail.com>
 
